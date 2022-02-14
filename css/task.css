@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Gideon+Roman&display=swap');
+
+body{
+    background-color: rgb(35, 45, 53)
+}
+
+.pealkiri{
+    color: rgb(206, 141, 141);
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 50px
+}
+
+
+
+.küpsised{
+    text-align: center;
+}
+
+.koostisosad{
+    border: 2px solid rgb(206, 164, 164);
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: white
+    
+
+    
+}
+.koostisosad-table{
+    margin-left: 2rem;
+    padding-top: 2px;
+    border: 2px solid rgb(206, 164, 164) ;
+
+    
+}
+
+.valmistamine{
+    border: 2px solid rgb(206, 164, 164);
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 20px;
+    color: white
+}
+
+.valmistamine ol{
+    margin: 0 auto;
+    width: 75%;
+}
+
+.link{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.footer{
+    text-align: center;
+    color: rgb(201, 139, 123);
+}
